@@ -58,12 +58,13 @@ The **Hospital Management System** is designed to manage hospital operations, in
 
 ## 🎥 Watch the Video Demo
 
-[![Hospital Management System Demo](https://img.youtube.com/vi/jHVkgsRsynA/1.jpg)](https://www.youtube.com/watch?v=jHVkgsRsynA "Hospital Management System Demo")
+[![Hospital Management System Demo]
+👉 **[Visit this link to see the demo](https://www.youtube.com/watch?v=jHVkgsRsynA)** 👈
 
 ---
 
 
---
+
 ---
 
 ✨ **Thank you for exploring My project!** ✨
